@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.virgingames.virgingameInfo.DefaultGamesFrequencyTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.328 sec <<< FAILURE! - in com.virgingames.virgingameInfo.DefaultGamesFrequencyTest
+test001(com.virgingames.virgingameInfo.DefaultGamesFrequencyTest)  Time elapsed: 3.769 sec  <<< FAILURE!
+java.lang.AssertionError: 
+Expected: "300000"
+     but: was null
+	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
+	at org.junit.Assert.assertThat(Assert.java:956)
+	at org.junit.Assert.assertThat(Assert.java:923)
+	at com.virgingames.virgingameInfo.DefaultGamesFrequencyTest.test001(DefaultGamesFrequencyTest.java:30)
+

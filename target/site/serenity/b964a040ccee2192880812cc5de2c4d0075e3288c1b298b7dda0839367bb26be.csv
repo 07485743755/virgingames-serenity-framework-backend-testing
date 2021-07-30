@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Default games frequency test","Verify default Game frequency should be always 300000","FAILURE","2021-07-30T20:59:58.935+01:00[Europe/London]","0.0","3.72"

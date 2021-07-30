@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.virgingames.virgingameInfo.DefaultGamesFrequencyTest" skipped="0" tests="2" time="5.72" timestamp="2021-07-30T20:59:58.935+01:00[Europe/London]"><testcase classname="com.virgingames.virgingameInfo.DefaultGamesFrequencyTest" name="Verify default Game frequency should be always 300000"><failure message="&#10;Expected: &quot;300000&quot;&#10;     but: was null" type="java.lang.AssertionError">
+Expected: "300000"
+     but: was null</failure><system-err>
+Expected: "300000"
+     but: was null&#13;
+com.virgingames.virgingameInfo.DefaultGamesFrequencyTest.test001(DefaultGamesFrequencyTest.java:30)&#13;
+</system-err></testcase><testcase classname="com.virgingames.virgingameInfo.DefaultGamesFrequencyTest" name="Start time should always be future timestamp"/></testsuite>

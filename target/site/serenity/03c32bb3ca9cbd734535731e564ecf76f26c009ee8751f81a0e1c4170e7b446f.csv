@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Default games frequency test","Start time should always be future timestamp","SUCCESS","2021-07-30T21:00:02.767+01:00[Europe/London]","0.0","2.0"
